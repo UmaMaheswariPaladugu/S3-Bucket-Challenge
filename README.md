@@ -15,15 +15,15 @@ We can use the Amazon S3 console, AWS CLI, or AWS python and Boto3 SDKs to creat
 
 1. s3 Bucket Creation-Using AWS CONSOLE 
 
-           please refer "[Branch > S3Bucket-AWS(Console)](https://git.epam.com/syed_khadarbasha/s3-challenge/-/tree/S3Bucket-AWS(Console))" 
+           please refer "[Branch > S3Bucket-AWS(Console)]" 
 
 
 2. S3 Bucket Creation-Using AWS CLI
 
-           Please refer "[S3Bucket-AWS(CLI)](https://git.epam.com/syed_khadarbasha/s3-challenge/-/tree/S3Bucket-AWS(CLI))"
+           Please refer "[S3Bucket-AWS(CLI)]"
  
 
 3. s3 Bucket Creation-Using Python and BOTO3
  
-           Please refer "[s3Bucket-PythonBOTO3](https://git.epam.com/syed_khadarbasha/s3-challenge/-/tree/s3Bucket-PythonBOTO3)"
+           Please refer "[s3Bucket-PythonBOTO3]"
 
