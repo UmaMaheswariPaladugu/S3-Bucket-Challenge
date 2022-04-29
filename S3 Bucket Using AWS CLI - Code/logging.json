@@ -1,0 +1,6 @@
+{
+     "LoggingEnabled": {
+         "TargetBucket": "syed14"
+        "TargetPrefix": "Logs/"
+     }
+ }
